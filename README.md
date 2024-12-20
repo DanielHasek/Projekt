@@ -1,5 +1,5 @@
 <body>   
-<h1>projekt</h1>                         
+<h1>Projekt</h1>                         
 <h2>uvod do projektu</h2>
 <p>
     Na začátku školního roku jsem se těšil, že se nám v rámci, jakožto obor elektrotechnika, možná dostane větší průpravy v oblastech s Markup jazyky. Alespoň jsem si to tedy myslel. Rozhodl jsem se tedy, jakožto člověk aboslutně nepolíbený softwarem VS Code, se za průběhu tohoto roku naučit základy v jazyce HTML a CSS. Pokuď vše půjde hladce, tak zabočit i do Javascriptu. Využiji tedy zadání ročníkového projektu jako sebedonucení.
